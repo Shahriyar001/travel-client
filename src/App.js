@@ -6,12 +6,12 @@ import Navbar from "./Components/Navbar/Navbar";
 
 function App() {
   return (
-    <>
+    <div className="max-w-[1440px] mx-auto">
       <Navbar />
       <Home />
       <Main />
       <Footer />
-    </>
+    </div>
   );
 }
 
