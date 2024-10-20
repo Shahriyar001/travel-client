@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "imgsrc": "img1.jpg",
+    "desTitle": "Cox's Bazar",
+    "Location": "Chittagong",
+    "grade": "Cultural Relax",
+    "fees": "700",
+    "description": "Cox's Bazar is the largest sea beach in the world, known as the most visited destination in this country."
+  },
+  {
+    "id": 2,
+    "imgsrc": "img2.jpg",
+    "desTitle": "Sundarbans",
+    "Location": "Khulna",
+    "grade": "Wildlife Adventure",
+    "fees": "850",
+    "description": "The Sundarbans is the largest mangrove forest, famous for its Royal Bengal Tigers and unique ecosystem."
+  },
+  {
+    "id": 3,
+    "imgsrc": "img3.jpg",
+    "desTitle": "Saint Martin's Island",
+    "Location": "Cox's Bazar",
+    "grade": "Island Paradise",
+    "fees": "600",
+    "description": "Saint Martin's is a beautiful coral island, known for its crystal-clear waters and serene environment."
+  },
+  {
+    "id": 4,
+    "imgsrc": "img4.jpg",
+    "desTitle": "Rangamati",
+    "Location": "Chittagong Hill Tracts",
+    "grade": "Hill Tract Adventure",
+    "fees": "500",
+    "description": "Rangamati is known for its scenic hill tracts, lakes, and the cultural diversity of indigenous people."
+  },
+  {
+    "id": 5,
+    "imgsrc": "img5.jpg",
+    "desTitle": "Sylhet Tea Gardens",
+    "Location": "Sylhet",
+    "grade": "Nature Retreat",
+    "fees": "400",
+    "description": "Sylhet is famous for its lush green tea gardens, tranquil landscapes, and traditional hospitality."
+  },
+  {
+    "id": 6,
+    "imgsrc": "img6.jpg",
+    "desTitle": "Kuakata",
+    "Location": "Barisal",
+    "grade": "Beach Escape",
+    "fees": "650",
+    "description": "Kuakata is known as the 'Daughter of the Sea,' famous for its panoramic sunrise and sunset views."
+  },
+  {
+    "id": 7,
+    "imgsrc": "img7.jpg",
+    "desTitle": "Bandarban",
+    "Location": "Chittagong Hill Tracts",
+    "grade": "Mountain Retreat",
+    "fees": "550",
+    "description": "Bandarban offers stunning mountain views, waterfalls, and the chance to explore indigenous cultures."
+  },
+  {
+    "id": 8,
+    "imgsrc": "img8.jpg",
+    "desTitle": "Paharpur",
+    "Location": "Naogaon",
+    "grade": "Historical Site",
+    "fees": "300",
+    "description": "Paharpur is home to the ruins of an ancient Buddhist Vihara, a UNESCO World Heritage Site."
+  },
+  {
+    "id": 9,
+    "imgsrc": "img9.jpg",
+    "desTitle": "Jaflong",
+    "Location": "Sylhet",
+    "grade": "Scenic Nature",
+    "fees": "450",
+    "description": "Jaflong is a popular destination known for its beautiful hills, river, and picturesque stone collection points."
+  }
+]
