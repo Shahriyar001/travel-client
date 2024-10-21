@@ -1,0 +1,15 @@
+.background-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1; /* Ensure it's behind other content */
+  pointer-events: none; /* Disable interaction with the video */
+}
+
+.hero {
+  position: relative;
+  overflow: hidden; /* Hide overflow if the video goes beyond the section */
+}

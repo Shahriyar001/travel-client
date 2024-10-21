@@ -8,7 +8,6 @@ const Home = () => {
   const handleRangeChange = (e) => {
     setRangeValue(e.target.value);
   };
-  // console.log(new Date());
   return (
     <div
       className="hero min-h-screen relative"
@@ -16,20 +15,6 @@ const Home = () => {
         position: "relative",
       }}
     >
-      {/* <iframe
-        src="https://www.youtube.com/embed/Mf_nGEPIsQ8?autoplay=1&mute=1&loop=1&playlist=Mf_nGEPIsQ8&controls=0&showinfo=0&modestbranding=1&rel=0"
-        frameBorder="0"
-        allow="autoplay; fullscreen"
-        className="background-video"
-      ></iframe> */}
-
-      {/* <iframe
-        src="https://www.youtube.com/embed/DEmO758Llbc?autoplay=1&mute=1&loop=1&playlist=DEmO758Llbc&controls=0&showinfo=0&modestbranding=1&rel=0"
-        frameBorder="0"
-        allow="autoplay; fullscreen"
-        className="background-video"
-      ></iframe> */}
-
       <iframe
         src="https://www.youtube.com/embed/ZoImTb58fjA?autoplay=1&mute=1&loop=1&playlist=ZoImTb58fjA&controls=0&showinfo=0&modestbranding=1&rel=0"
         frameBorder="0"
@@ -83,18 +68,7 @@ const Home = () => {
               />
             </label>
           </div>
-          {/* <div className="text-center items-center w-full">
-            <button className="flex items-center btn btn-peimary">
-              <FaFilter />
-              Filter
-            </button>
-          </div> */}
-          {/* <div className="flex justify-center mt-[-8]">
-            <button className="flex items-center btn btn-primary text-white">
-              <FaFilter className="mr-2" />
-              Filter
-            </button>
-          </div> */}
+
           <div className="absolute left-1/2 transform -translate-x-1/2 -mt-5">
             <button className="flex items-center btn border-none py-1 px-3 bg-indigo-400 text-white">
               <FaFilter className="mr-2" />

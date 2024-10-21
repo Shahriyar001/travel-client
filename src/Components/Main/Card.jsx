@@ -1,5 +1,4 @@
 import React from "react";
-import { FaLocationArrow } from "react-icons/fa";
 import { FaLocationDot } from "react-icons/fa6";
 import { GiNotebook } from "react-icons/gi";
 
@@ -9,7 +8,7 @@ const Card = ({ dest }) => {
   };
 
   console.log(dest);
-  const { id, img, desTitle, Location, grade, fees, description } = dest;
+  const { img, desTitle, Location, grade, fees, description } = dest;
   return (
     <div className="card bg-base-100 lg:ml-6 w-96 shadow-xl">
       <figure>
