@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "imgsrc": "img1.jpg",
+    "img": "https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/bloge4A3lEt94pyEsKRxjyjIB2rVqNEdXfF-.png",
     "desTitle": "Cox's Bazar",
     "Location": "Chittagong",
     "grade": "Cultural Relax",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "imgsrc": "img2.jpg",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/23/Sundarban_Tiger.jpg",
     "desTitle": "Sundarbans",
     "Location": "Khulna",
     "grade": "Wildlife Adventure",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "imgsrc": "img3.jpg",
+    "img": "https://red-baron-charters.com/wp-content/uploads/2023/05/st-maarten-st-martin.webp",
     "desTitle": "Saint Martin's Island",
     "Location": "Cox's Bazar",
     "grade": "Island Paradise",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "imgsrc": "img4.jpg",
+    "img": "https://hatbakso.com/wp-content/uploads/2020/05/Rangamati.jpg",
     "desTitle": "Rangamati",
     "Location": "Chittagong Hill Tracts",
     "grade": "Hill Tract Adventure",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "imgsrc": "img5.jpg",
+    "img": "https://cdn-gdpal.nitrocdn.com/wYTsNDvTtivyqMQKozkdeShFCCdGExJz/assets/images/optimized/rev-b1c501a/wp-content/uploads/2022/07/1-3-1.jpg",
     "desTitle": "Sylhet Tea Gardens",
     "Location": "Sylhet",
     "grade": "Nature Retreat",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "imgsrc": "img6.jpg",
+    "img": "https://cdn.bdstall.com/product-image/giant_9097.jpg",
     "desTitle": "Kuakata",
     "Location": "Barisal",
     "grade": "Beach Escape",
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "imgsrc": "img7.jpg",
+    "img": "https://ttg.com.bd/uploads/tours/activities/380.jpg",
     "desTitle": "Bandarban",
     "Location": "Chittagong Hill Tracts",
     "grade": "Mountain Retreat",
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "imgsrc": "img8.jpg",
+    "img": "https://cdn.britannica.com/68/178168-050-EED35840/Somapura-Mahavira-Paharpur-Bangladesh.jpg",
     "desTitle": "Paharpur",
     "Location": "Naogaon",
     "grade": "Historical Site",
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "imgsrc": "img9.jpg",
+    "img": "https://www.travelmate.com.bd/wp-content/uploads/2019/07/Jaflong-Travel.jpg",
     "desTitle": "Jaflong",
     "Location": "Sylhet",
     "grade": "Scenic Nature",

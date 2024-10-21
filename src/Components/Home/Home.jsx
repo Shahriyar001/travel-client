@@ -8,7 +8,7 @@ const Home = () => {
   const handleRangeChange = (e) => {
     setRangeValue(e.target.value);
   };
-  console.log(new Date());
+  // console.log(new Date());
   return (
     <div
       className="hero min-h-screen relative"
