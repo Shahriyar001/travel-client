@@ -24,7 +24,7 @@ const Ways = () => {
         <div className="card bg-base-100 w-96 shadow-xl">
           <figure className="px-10 pt-10">
             <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5AgxcnD8GegKBfIn0Tqs9k8B24ypRz8p_aw&s"
+              src="https://img.freepik.com/premium-photo/cruise-ships-cross-seas-ai-generated-image_20029-1788.jpg"
               alt="Shoes"
               className="rounded-xl"
             />
@@ -40,7 +40,7 @@ const Ways = () => {
         <div className="card bg-base-100 w-96 shadow-xl">
           <figure className="px-10 pt-10">
             <img
-              src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+              src="https://img.freepik.com/premium-photo/white-bus-moving-fast-road-modern-city-with-light-effect_207634-3202.jpg"
               alt="Shoes"
               className="rounded-xl"
             />
