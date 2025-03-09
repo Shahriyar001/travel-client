@@ -2,7 +2,8 @@ import React from "react";
 import Home from "../../Components/Home/Home";
 import Category from "../../Components/Category/Category";
 import Ways from "../../Components/Ways/Ways";
-import Main from "../../Layout/Main";
+import MainSection from "../../Components/Main/MainSection";
+import PopularMenu from "./PopularMenu/PopularMenu";
 
 const LandPage = () => {
   return (
@@ -10,7 +11,8 @@ const LandPage = () => {
       <Home />
       <Category />
       <Ways />
-      <Main />
+      <PopularMenu />
+      <MainSection />
     </div>
   );
 };

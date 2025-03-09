@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Card from "./Card";
 
-const Main = () => {
+const MainSection = () => {
   const [destinations, setDestinations] = useState([]);
   const [loading, setLoading] = useState(true);
 
@@ -43,4 +43,4 @@ const Main = () => {
   );
 };
 
-export default Main;
+export default MainSection;
