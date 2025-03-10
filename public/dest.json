@@ -82,12 +82,12 @@
   },
   {
     "id": 10,
-    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/75/98/eb/bisnakandi.jpg?w=1200&h=-1&s=1",
-    "desTitle": "Bisnakandi",
-    "Location": "Sylhet",
+    "img": "https://www.travelmate.com.bd/wp-content/uploads/2019/06/Tanguar-Haor-6-1024x683.jpg",
+    "desTitle": "Tanguar Haor",
+    "Location": "Sunamganj",
     "category": "Popular",
     "fees": "400",
-    "description": "Bisnakandi is a scenic landscape where hills from India meet a river flowing through Bangladesh."
+    "description": "Tanguar Haor is a breathtaking wetland ecosystem with rich biodiversity, boat rides, and mesmerizing views, especially during monsoon."
   },
   {
     "id": 11,
@@ -115,5 +115,68 @@
     "category": "Historic",
     "fees": "200",
     "description": "Lalbagh Fort is a historical fortress built in the Mughal era, offering a glimpse into the past."
+  },
+  {
+    "id": 14,
+    "img": "https://tbbd-flight.s3.ap-southeast-1.amazonaws.com/bloge4A3lEt94pyEsKRxjyjIB2rVqNEdXfF-.png",
+    "desTitle": "Cox's Bazar",
+    "Location": "Chittagong",
+    "category": "Popular",
+    "fees": "700",
+    "description": "Cox's Bazar is the largest sea beach in the world, known as the most visited destination in this country."
+  },
+  {
+    "id": 15,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/23/Sundarban_Tiger.jpg",
+    "desTitle": "Sundarbans",
+    "Location": "Khulna",
+    "category": "Popular",
+    "fees": "850",
+    "description": "The Sundarbans is the largest mangrove forest, famous for its Royal Bengal Tigers and unique ecosystem."
+  },
+  {
+    "id": 16,
+    "img": "https://red-baron-charters.com/wp-content/uploads/2023/05/st-maarten-st-martin.webp",
+    "desTitle": "Saint Martin's Island",
+    "Location": "Cox's Bazar",
+    "category": "Popular",
+    "fees": "600",
+    "description": "Saint Martin's is a beautiful coral island, known for its crystal-clear waters and serene environment."
+  },
+  {
+    "id": 9,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jaflong_Sylhet_Bangladesh.jpg",
+    "desTitle": "Jaflong",
+    "Location": "Sylhet",
+    "category": "Nature",
+    "fees": "100",
+    "description": "Jaflong is a scenic spot at the foot of the Khasi hills, known for its crystal-clear river, rolling stones, and lush greenery."
+  },
+  {
+    "id": 10,
+    "img": "https://www.obokash.com/public/uploads/all/jVfkkmiKrVcyfUj6mAw1XfFTT1bGhEuS3LfctaeW.jpg",
+    "desTitle": "Bisnakandi",
+    "Location": "Sylhet",
+    "category": "Nature",
+    "fees": "120",
+    "description": "Bisnakandi is a picturesque place where hills from Meghalaya, India, meet rivers and rocks, creating a stunning natural landscape."
+  },
+  {
+    "id": 11,
+    "img": "https://www.travelmate.com.bd/wp-content/uploads/2020/07/Tanguar-Haor-Sunamganj.jpg",
+    "desTitle": "Tanguar Haor",
+    "Location": "Sunamganj",
+    "category": "Wetland",
+    "fees": "200",
+    "description": "Tanguar Haor is a breathtaking wetland ecosystem with rich biodiversity, boat rides, and mesmerizing views, especially during monsoon."
+  },
+  {
+    "id": 12,
+    "img": "https://dailyasianage.com/library/1564230936_3.jpg",
+    "desTitle": "Nikli Haor",
+    "Location": "Kishoreganj",
+    "category": "Wetland",
+    "fees": "150",
+    "description": "Nikli Haor is a vast water body perfect for boat rides, fishing, and enjoying the serene beauty of rural Bangladesh."
   }
 ]
