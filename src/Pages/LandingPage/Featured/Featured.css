@@ -1,0 +1,6 @@
+.featured-item {
+  background-image: url("../../../assets/open.png");
+  background-repeat: no-repeat;
+  background-size: cover; /* Ensures the image covers the full container */
+  background-position: center;
+}

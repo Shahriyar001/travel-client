@@ -1,9 +1,15 @@
 import React from "react";
+import SectionTitle from "../SectionTitle/SectionTitle";
 
 const Ways = () => {
   return (
     <div>
-      <div>ways of our tour</div>
+      <div>
+        <SectionTitle
+          subHeading={"Ways Of Our Tour"}
+          heading={"Choosing a route"}
+        ></SectionTitle>
+      </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         <div className="card bg-base-100 w-96 shadow-xl">
           <figure className="px-10 pt-10">
