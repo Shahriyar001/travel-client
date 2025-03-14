@@ -19,7 +19,7 @@ const Navbar = () => {
         <a href="/">About</a>
       </li>
       <li className="">
-        <a href="/">Pages</a>
+        <a href="/menu">Menu</a>
       </li>
     </>
   );
@@ -51,7 +51,7 @@ const Navbar = () => {
             {menuItem}
           </ul>
         </div>
-        <a href="#" className="">
+        <a href="/" className="">
           <h1 className="text-4xl font-bold flex items-center  text-violet-600 ">
             <MdOutlineTravelExplore /> Travel.
           </h1>
