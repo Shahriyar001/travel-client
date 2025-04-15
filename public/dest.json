@@ -178,5 +178,185 @@
     "category": "Wetland",
     "fees": "150",
     "description": "Nikli Haor is a vast water body perfect for boat rides, fishing, and enjoying the serene beauty of rural Bangladesh."
+  },
+  {
+    "id": 92,
+    "img": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2022/10/20/ctg_supplement_photo_patenga_beach_4.jpg",
+    "desTitle": "Patenga Beach",
+    "Location": "Chittagong",
+    "category": "Seabeach",
+    "fees": "300",
+    "description": "Patenga is a popular beach near Chittagong city, known for its beautiful sunsets and river-sea meeting point."
+  },
+  {
+    "id": 13,
+    "img": "https://media-cdn.tripadvisor.com/media/photo-s/17/5c/92/64/inani-beach-sea-beach.jpg",
+    "desTitle": "Inani Beach",
+    "Location": "Cox's Bazar",
+    "category": "Seabeach",
+    "fees": "500",
+    "description": "Inani Beach is famous for its coral stones and crystal-clear water, located just south of Cox's Bazar."
+  },
+  {
+    "id": 14,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk3YuGbmGneDdqPXfRJYJUADP74XZD489vPA&s",
+    "desTitle": "Himchari Beach",
+    "Location": "Cox's Bazar",
+    "category": "Seabeach",
+    "fees": "400",
+    "description": "Himchari is known for its scenic waterfall and beach view, located close to Cox's Bazar town."
+  },
+  {
+    "id": 15,
+    "img": "https://i.ytimg.com/vi/t9df3Qn2ZE0/maxresdefault.jpg",
+    "desTitle": "Teknaf Sea Beach",
+    "Location": "Cox's Bazar",
+    "category": "Seabeach",
+    "fees": "600",
+    "description": "Teknaf Beach is a quiet and clean beach near the southern tip of Bangladesh, perfect for peaceful getaways."
+  },
+  {
+    "id": 23,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPOMUxaQtvRXB6ARLAu5szXfy5kpycSu-bpg&s",
+    "desTitle": "Lawachara National Park",
+    "Location": "Moulvibazar",
+    "category": "Forest",
+    "fees": "300",
+    "description": "Lawachara is a tropical rainforest in Srimangal, home to endangered species like the hoolock gibbon."
+  },
+  {
+    "id": 24,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd-eznNCC3HI-E4X7wpqduhoTsQTGuEwawDg&s",
+    "desTitle": "Madhupur National Park",
+    "Location": "Tangail",
+    "category": "Forest",
+    "fees": "200",
+    "description": "Madhupur Forest is known for its Sal trees and diverse wildlife, located in central Bangladesh."
+  },
+  {
+    "id": 25,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQej1bGn7myjFqP3dBrg_UFbxvSPzSFoBVArA&s",
+    "desTitle": "Chunati Wildlife Sanctuary",
+    "Location": "Chittagong",
+    "category": "Forest",
+    "fees": "250",
+    "description": "Chunati Wildlife Sanctuary is a protected forest area supporting biodiversity and elephant conservation."
+  },
+  {
+    "id": 26,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKx-ok5cn73fujWaHbNTfmXOrKw66q2fGZ_Q&s",
+    "desTitle": "Sitakunda Eco Park",
+    "Location": "Chittagong",
+    "category": "Forest",
+    "fees": "150",
+    "description": "Sitakunda Eco Park features lush greenery, waterfalls, and nature trails attracting eco-tourists and hikers."
+  },
+  {
+    "id": 27,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoNKZyc-QRfOWB7bAOuHir-TB2Xps8xIOG6g&s",
+    "desTitle": "Nijhum Dwip",
+    "Location": "Noakhali",
+    "category": "Island",
+    "fees": "500",
+    "description": "Nijhum Dwip is a quiet island known for its natural beauty, migratory birds, and spotted deer population."
+  },
+  {
+    "id": 28,
+    "img": "https://cdn.dhakapost.com/media/imgAll/BG/2024December/char-kukri-mukri-20241201113328.jpg",
+    "desTitle": "Char Kukri-Mukri",
+    "Location": "Bhola",
+    "category": "Island",
+    "fees": "400",
+    "description": "Char Kukri-Mukri is an island in Bhola known for its mangrove forests, deer, and scenic coastal views."
+  },
+  {
+    "id": 35,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Sajek_valley.jpg",
+    "desTitle": "Sajek Valley",
+    "Location": "Rangamati",
+    "category": "Hill Track",
+    "fees": "800",
+    "description": "Sajek Valley is famous for its breathtaking views, floating clouds, and peaceful hilltop resorts."
+  },
+  {
+    "id": 36,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Khagrachari_landscape.jpg",
+    "desTitle": "Khagrachari",
+    "Location": "Chittagong Hill Tracts",
+    "category": "Hill Track",
+    "fees": "600",
+    "description": "Khagrachari offers natural waterfalls, green hills, and tribal heritage making it a hidden gem."
+  },
+  {
+    "id": 37,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Nilgiri_Hills_Bangladesh.jpg",
+    "desTitle": "Nilgiri Hills",
+    "Location": "Thanchi, Bandarban",
+    "category": "Hill Track",
+    "fees": "1000",
+    "description": "Nilgiri is one of the highest peaks in Bangladesh, offering an amazing sea of clouds experience."
+  },
+  {
+    "id": 38,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Alikadam_Hill_Tract.jpg",
+    "desTitle": "Alikadam",
+    "Location": "Chittagong Hill Tracts",
+    "category": "Hill Track",
+    "fees": "550",
+    "description": "Alikadam is a remote hilly area known for its adventurous trails and untouched natural beauty."
+  },
+  {
+    "id": 54,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ahsan_Manzil.jpg",
+    "desTitle": "Ahsan Manzil",
+    "Location": "Dhaka",
+    "category": "Historic",
+    "fees": "150",
+    "description": "Ahsan Manzil, also known as the Pink Palace, is a stunning architectural symbol of the Nawab era."
+  },
+  {
+    "id": 55,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/Main_Entrance_of_Mahasthangarh.jpg",
+    "desTitle": "Mahasthangarh",
+    "Location": "Bogura",
+    "category": "Historic",
+    "fees": "250",
+    "description": "Mahasthangarh is an ancient archaeological site dating back to 3rd century BCE, rich in history and ruins."
+  },
+  {
+    "id": 56,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/59/Curzon_Hall_University_of_Dhaka.jpg",
+    "desTitle": "Curzon Hall",
+    "Location": "Dhaka",
+    "category": "Historic",
+    "fees": "0",
+    "description": "Curzon Hall is a historic academic building at the University of Dhaka with beautiful colonial-era architecture."
+  },
+  {
+    "id": 50,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/52/Shalban_Vihara_Campus_03.jpg",
+    "desTitle": "Shalban Bihar",
+    "Location": "Comilla",
+    "category": "Historic",
+    "fees": "100",
+    "description": "Shalban Bihar is an ancient Buddhist monastery and archaeological site in Comilla, showcasing 8th-century terracotta ruins and monastic cells."
+  },
+  {
+    "id": 58,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sonargaon_Folk_Art_and_Craft_Museum_Bangladesh.jpg",
+    "desTitle": "Panam City",
+    "Location": "Sonargaon",
+    "category": "Historic",
+    "fees": "300",
+    "description": "Panam City is a preserved ancient city featuring colonial-era buildings and narrow heritage streets."
+  },
+  {
+    "id": 59,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Bagha_Mosque%2C_Rajshahi.jpg",
+    "desTitle": "Bagha Mosque",
+    "Location": "Rajshahi",
+    "category": "Historic",
+    "fees": "100",
+    "description": "Bagha Mosque is a beautifully designed terracotta mosque from the Sultanate period located in Rajshahi."
   }
 ]
