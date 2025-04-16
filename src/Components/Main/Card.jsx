@@ -11,8 +11,8 @@ const Card = ({ dest }) => {
   const { img, desTitle, Location, grade, fees, description } = dest;
   return (
     <div className="card bg-base-100 lg:ml-6 w-96 shadow-xl">
-      <figure>
-        <img className="" src={img} alt="Shoes" />
+      <figure className="h-[250px] overflow-hidden">
+        <img src={img} alt="Shoes" className="h-full w-full object-cover" />
       </figure>
       <div className="card-body">
         <h2 className="card-title">{desTitle}</h2>
