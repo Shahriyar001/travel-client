@@ -27,31 +27,31 @@ const Menu = () => {
       {/* popular menu items  */}
       <MenuCategory items={Popular} />
       {/* seabeach  */}
-      <MenuCategory items={Seabeach} title={"Seabeach"} img={seabeach} />
+      <MenuCategory items={Seabeach} title={"seabeach"} img={seabeach} />
       <MenuCategory
         items={Forest}
-        title={"Forest"}
+        title={"forest"}
         img={
           "https://plantlet.org/wp-content/uploads/2020/06/SAVE_20200617_160556.jpg"
         }
       />
       <MenuCategory
         items={Island}
-        title={"Island"}
+        title={"island"}
         img={
           "https://e0.pxfuel.com/wallpapers/971/428/desktop-wallpaper-the-most-beautiful-tropical-island.jpg"
         }
       />
       <MenuCategory
         items={HillTrack}
-        title={"Hill Track"}
+        title={"hill Track"}
         img={
           "https://thumbs.dreamstime.com/b/murong-village-bangladesh-tribe-most-famous-th-largest-tribe-chittagong-hill-tracts-dwell-lama-ruma-alikadam-thanchi-67659273.jpg"
         }
       />
       <MenuCategory
         items={Historic}
-        title={"Historic"}
+        title={"historic"}
         img={
           "https://cms.booklogic.net/hotel-sliders/750/historical-places-of-beautiful-bangladesh-wallpaper.jpg"
         }

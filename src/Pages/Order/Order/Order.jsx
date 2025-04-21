@@ -4,12 +4,14 @@ import Cover from "../../../Shared/Cover/Cover";
 import { Tabs, TabList, Tab, TabPanel } from "react-tabs";
 import "react-tabs/style/react-tabs.css";
 import useMenu from "../../../hooks/useMenu";
-import TravelCard from "../../../Components/TravelCard/TravelCard";
 import OrderTab from "../OrderTab/OrderTab";
+import { useParams } from "react-router-dom";
 
 const Order = () => {
   const [tabIndex, setTabIndex] = useState(0);
   const [menu] = useMenu();
+  const { category } = useParams();
+  console.log(category);
   const Seabeach = menu.filter((item) => item.category === "Seabeach");
   const Forest = menu.filter((item) => item.category === "Forest");
   const Island = menu.filter((item) => item.category === "Island");
